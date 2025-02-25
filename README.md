@@ -1,77 +1,49 @@
 <h1>⚡ Spark & Databricks Hands-on 🚀</h1>
+<h2>📌 Overview</h2>
+<p>This repository is a one-stop solution for storing 📚 notes, 📝 solutions, and 🤹 hands-on exercises related to Apache Spark and Databricks. It is designed to help you learn Spark efficiently and practically!</p>
 
-📌 Overview
+<h2>📂 Repository Structure</h2>
+<pre>
+<h2>🚀 Getting Started</h2>
 
-This repository is a one-stop solution for storing 📚 notes, 📝 solutions, and 🤹 hands-on exercises related to Apache Spark and Databricks. It is designed to help you learn Spark efficiently and practically!
+<h3>🔧 Prerequisites</h3>
+<ul>
+    <li>🛠 Apache Spark installed locally or access to Databricks</li>
+    <li>🐍 Python (if using PySpark) or ☕ Scala (for Spark on JVM)</li>
+    <li>📓 Jupyter Notebook (if running Spark locally)</li>
+    <li>🖥 Git (for version control)</li>
+</ul>
 
-📂 Repository Structure
+<h3>📥 Setting Up</h3>
+<pre>
+<h2>🎯 Topics Covered</h2>
+<ul>
+    <li>Spark DataFrame API</li>
+    <li>Transformations and Actions</li>
+    <li>Schema Handling</li>
+    <li>Partitioning and Bucketing</li>
+    <li>Parquet and other file formats</li>
+    <li>Performance Optimization</li>
+    <li>Databricks Notebooks & Workflows</li>
+    <li>Debugging & Logging</li>
+    <li>Real-world Use Cases</li>
+</ul>
 
-📁 notebooks/                  # Jupyter or Databricks notebooks with Spark code
-│   📄 dataframe_basics.scala  # DataFrame creation, schema definition
-│   📄 transformations.scala   # DataFrame transformations (select, filter, groupBy, etc.)
-│   📄 partitioning_bucketing.scala  # Concepts of partitioning and bucketing
-│   📄 parquet_files.scala     # Working with Parquet file formats
-│   📄 optimizations.scala     # Spark optimization techniques
-│   📄 databricks_workflows.scala  # Running and managing workflows in Databricks
-│   📄 ... (more notebooks to be added)
-📁 notes/                      # 📖 Notes on Spark concepts, best practices, and reference material
-📁 solutions/                   # ✅ Solutions to exercises and problem statements
-📁 datasets/                   # 📊 Sample datasets used in examples
-📁 scripts/                    # ⚙️ Utility scripts for running Spark jobs
-📄 README.md                   # 📜 Documentation (this file)
-📁 resources/                   # 🔗 Additional references, cheat sheets, and guides
+<h2>🏃 Running Code in Databricks</h2>
+<ul>
+    <li>Navigate to your Databricks workspace.</li>
+    <li>🔥 Create a new cluster or use an existing one.</li>
+    <li>📥 Import notebooks and attach them to the cluster.</li>
+    <li>▶️ Execute cells to explore different Spark functionalities.</li>
+</ul>
 
-🚀 Getting Started
+<h2>🤝 Contributions</h2>
+<p>Contributions are welcome! 🎉 Feel free to submit pull requests or open issues for suggestions and improvements.</p>
 
-🔧 Prerequisites
+<h2>📜 License</h2>
+<p>This repository is open-source and available under the MIT License.</p>
 
-To work with this repository, you need:
+<h2>📧 Contact</h2>
+<p>For any questions, feel free to reach out via GitHub Issues or LinkedIn.</p>
 
-🛠 Apache Spark installed locally or access to Databricks
-
-🐍 Python (if using PySpark) or ☕ Scala (for Spark on JVM)
-
-📓 Jupyter Notebook (if running Spark locally)
-
-🖥 Git (for version control)
-
-📥 Setting Up
-
-Clone the repository:
-
-git clone https://github.com/your-username/spark_databricks_handson.git
-cd spark_databricks_handson
-
-Open Databricks and import notebooks from the notebooks/ directory.
-
-If running locally, ensure Spark is set up and use spark-shell (Scala) or pyspark (Python).
-
-🎯 Topics Covered
-
-✅ Spark DataFrame API
-✅ Transformations and Actions
-✅ Schema Handling
-✅ Partitioning and Bucketing
-✅ Parquet and other file formats
-✅ Performance Optimization
-✅ Databricks Notebooks & Workflows
-✅ Debugging & Logging
-✅ Real-world Use Cases
-
-🏃 Running Code in Databricks
-
-1. Navigate to your Databricks workspace.
-
-2. 🔥 Create a new cluster or use an existing one.
-
-3. 📥 Import notebooks and attach them to the cluster.
-
-4. ▶️ Execute cells to explore different Spark functionalities.
-
-📧 Contact
-
-For any questions, feel free to reach out via GitHub Issues or LinkedIn.
-
-🎉 Happy Coding! 🚀
-
-
+<h2>🎉 Happy Coding! 🚀</h2>
