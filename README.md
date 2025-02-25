@@ -7,12 +7,12 @@
 <h2>🚀 Getting Started</h2>
 
 <h3>🔧 Prerequisites</h3>
-<ul>
+<ol type="1" >
     <li>🛠 Apache Spark installed locally or access to Databricks</li>
     <li>🐍 Python (if using PySpark) or ☕ Scala (for Spark on JVM)</li>
     <li>📓 Jupyter Notebook (if running Spark locally)</li>
     <li>🖥 Git (for version control)</li>
-</ul>
+</ol>
 
 <h3>📥 Setting Up</h3>
 <pre>
