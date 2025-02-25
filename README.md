@@ -3,7 +3,6 @@
 <p>This repository is a one-stop solution for storing 📚 notes, 📝 solutions, and 🤹 hands-on exercises related to Apache Spark and Databricks. It is designed to help you learn Spark efficiently and practically!</p>
 
 <h2>📂 Repository Structure</h2>
-<pre>
 <h2>🚀 Getting Started</h2>
 <h3>🔧 Prerequisites</h3>
 <ol type="1" >
@@ -13,7 +12,7 @@
     <li>🖥 Git (for version control)</li>
 </ol>
 <h3>📥 Setting Up</h3>
-<pre>
+
 <h2>🎯 Topics Covered</h2>
 <ul>
     <li>Spark DataFrame API</li>
