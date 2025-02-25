@@ -1,4 +1,4 @@
-⚡ Spark & Databricks Hands-on 🚀
+<h1>⚡ Spark & Databricks Hands-on 🚀</h1>
 
 📌 Overview
 
@@ -48,25 +48,25 @@ If running locally, ensure Spark is set up and use spark-shell (Scala) or pyspar
 
 🎯 Topics Covered
 
-✅ Spark DataFrame API✅ Transformations and Actions✅ Schema Handling✅ Partitioning and Bucketing✅ Parquet and other file formats✅ Performance Optimization✅ Databricks Notebooks & Workflows✅ Debugging & Logging✅ Real-world Use Cases
+✅ Spark DataFrame API
+✅ Transformations and Actions
+✅ Schema Handling
+✅ Partitioning and Bucketing
+✅ Parquet and other file formats
+✅ Performance Optimization
+✅ Databricks Notebooks & Workflows
+✅ Debugging & Logging
+✅ Real-world Use Cases
 
 🏃 Running Code in Databricks
 
-Navigate to your Databricks workspace.
+1. Navigate to your Databricks workspace.
 
-🔥 Create a new cluster or use an existing one.
+2. 🔥 Create a new cluster or use an existing one.
 
-📥 Import notebooks and attach them to the cluster.
+3. 📥 Import notebooks and attach them to the cluster.
 
-▶️ Execute cells to explore different Spark functionalities.
-
-🤝 Contributions
-
-Contributions are welcome! 🎉 Feel free to submit pull requests or open issues for suggestions and improvements.
-
-📜 License
-
-This repository is open-source and available under the MIT License.
+4. ▶️ Execute cells to explore different Spark functionalities.
 
 📧 Contact
 
