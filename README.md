@@ -5,7 +5,6 @@
 <h2>📂 Repository Structure</h2>
 <pre>
 <h2>🚀 Getting Started</h2>
-
 <h3>🔧 Prerequisites</h3>
 <ol type="1" >
     <li>🛠 Apache Spark installed locally or access to Databricks</li>
@@ -13,7 +12,6 @@
     <li>📓 Jupyter Notebook (if running Spark locally)</li>
     <li>🖥 Git (for version control)</li>
 </ol>
-
 <h3>📥 Setting Up</h3>
 <pre>
 <h2>🎯 Topics Covered</h2>
@@ -28,7 +26,6 @@
     <li>Debugging & Logging</li>
     <li>Real-world Use Cases</li>
 </ul>
-
 <h2>🏃 Running Code in Databricks</h2>
 <ul>
     <li>Navigate to your Databricks workspace.</li>
@@ -36,10 +33,9 @@
     <li>📥 Import notebooks and attach them to the cluster.</li>
     <li>▶️ Execute cells to explore different Spark functionalities.</li>
 </ul>
-
 <h2>🤝 Contributions</h2>
 <p>Contributions are welcome! 🎉 Feel free to submit pull requests or open issues for suggestions and improvements.</p>
-
+    
 <h2>📜 License</h2>
 <p>This repository is open-source and available under the MIT License.</p>
 
