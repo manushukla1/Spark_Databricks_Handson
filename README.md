@@ -8,7 +8,6 @@
     <li>📓 Jupyter Notebook (if running Spark locally)</li>
     <li>🖥 Git (for version control)</li>
 </ul>
-<h3>📥 Setting Up</h3>
 
 <h2>🎯 Topics Covered</h2>
 <ul>
